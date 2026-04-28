@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jaiganneshskytap/Zendesk-CLI/releases/download/v0.0.1/zd_0.0.1_windows_amd64.zip",
+            "url": "https://github.com/jaiganneshskytap/Zendesk-CLI/releases/download/v0.0.2/zd_0.0.2_windows_amd64.zip",
             "bin": [
                 "zd.exe"
             ],
-            "hash": "0a8618a90af31d93da8ad970fce4731d3dcbb6194803f9b88763be8b5d120f84"
+            "hash": "d7b8168336d85bdcb44797f3b50b6613a4e7fb1f05bedee06ca1c7bbcb0cebc3"
         },
         "arm64": {
-            "url": "https://github.com/jaiganneshskytap/Zendesk-CLI/releases/download/v0.0.1/zd_0.0.1_windows_arm64.zip",
+            "url": "https://github.com/jaiganneshskytap/Zendesk-CLI/releases/download/v0.0.2/zd_0.0.2_windows_arm64.zip",
             "bin": [
                 "zd.exe"
             ],
-            "hash": "51a680912262277a5984b3e6da13852b8552f13413d182f21c5d512d2cf8b21d"
+            "hash": "e9c8fb812bde73389ec15199919c7c2a4b281c0078676b292de41a8c10163b5e"
         }
     },
     "homepage": "https://github.com/jaiganneshskytap/Zendesk-CLI",
